@@ -1,0 +1,6 @@
+site_name: Courses Archive by Jong Hyun Park
+theme:
+  name: dracula
+nav:
+  - LangSmith Course:
+    -Home: LangSmith_Course/docs/index.md
