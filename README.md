@@ -1,4 +1,4 @@
-# Courses Archaive by Jong Hyun Park
+# Courses Archive by Jong Hyun Park
 
   - LangSmith
   - TBD
