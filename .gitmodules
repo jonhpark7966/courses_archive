@@ -4,3 +4,6 @@
 [submodule "DLBasic_Course"]
 	path = DLBasic_Course
 	url = ./DLBasic_Course
+[submodule "LangGraph_Course"]
+	path = LangGraph_Course
+	url = ./LangGraph_Course
