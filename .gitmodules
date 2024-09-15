@@ -1,3 +1,6 @@
 [submodule "LangSmith_Course"]
 	path = LangSmith_Course
 	url = git@github.com:jonhpark7966/LangSmith_Course.git
+[submodule "DLBasic_Course"]
+	path = DLBasic_Course
+	url = ./DLBasic_Course
