@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "59799c6776fdee8d",
+        "id": "f2bb8906c208079d",
         "type": "tabs",
         "children": [
           {
-            "id": "75f16849107c15ee",
+            "id": "ef31cec557502a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LangSmith_Course/docs/LangSmith 개요.md",
+                "file": "LangGraph_Course/docs/intros/Agent.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e406c013a9a89b9b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LangSmith_Course/docs/LangSmith 개요.md",
+                "file": "LangGraph_Course/docs/intros/Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LangSmith_Course/docs/LangSmith 개요.md",
+                "file": "LangGraph_Course/docs/intros/Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LangSmith_Course/docs/LangSmith 개요.md"
+                "file": "LangGraph_Course/docs/intros/Agent.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,10 +147,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75f16849107c15ee",
+  "active": "ef31cec557502a25",
   "lastOpenFiles": [
+    "LangSmith_Course/docs/intros/Tracing_concept.md",
+    "DLBasic_Course/2408_sangmyoung/Intro.md",
+    "LangGraph_Course/ipynbs/ref/agent-simulation-evaluation.ipynb",
+    "LangGraph_Course/ipynbs/ref/reflexion.ipynb",
+    "LangGraph_Course/ipynbs/ref/reflection.ipynb",
+    "LangGraph_Course/ipynbs/ref/plan-and-execute.ipynb",
+    "LangGraph_Course/ipynbs/ref/hierarchical_agent_teams.ipynb",
+    "LangGraph_Course/ipynbs/ref/agent_supervisor.ipynb",
+    "LangGraph_Course/ipynbs/ref/multi-agent-collaboration.ipynb",
+    "LangGraph_Course/ipynbs/ref/sql-agent.ipynb",
+    "LangGraph_Course/ipynbs/ref/langgraph_self_rag.ipynb",
+    "LangGraph_Course/ipynbs/ref/langgraph_crag.ipynb",
+    "DLBasic_Course/2408_sangmyoung/Project.md",
+    "LangGraph_Course/docs/intros/Agent.md",
+    "LangSmith_Course/docs/intros/LangSmith.md",
+    "LangSmith_Course/docs/intros/Evaluation_with_dataset.md",
+    "FineTune_Course/docs/index.md",
+    "README.md",
+    "LangSmith_Course/docs/tutorial/Evaluation.md",
+    "Untitled.md",
     "LangSmith_Course/docs/index.md",
-    "LangSmith_Course/docs/LangSmith 개요.md",
-    "README.md"
+    "news_arch.svg",
+    "DLBasic_Course/2408_sangmyoung/Logs.md",
+    "Tmp.md",
+    "LangSmith_Course/docs/tutorial/Setup.md",
+    "LangSmith_Course/docs/tutorial/Tracing_1.md",
+    "LangSmith_Course/docs/intros/Pricing.md",
+    "LangSmith_Course/docs/tutorial/Tracing_2.md",
+    "mkdocs_venv/lib/python3.12/site-packages/numpy/random/LICENSE.md",
+    "LangSmith_Course/site/rsc/lc_eval.png",
+    "LangSmith_Course/site/rsc/eval_various.png",
+    "LangSmith_Course/site/rsc/eval_trace.png",
+    "LangSmith_Course/site/rsc/eval_experiments.png",
+    "LangSmith_Course/site/rsc/eval_cot.png",
+    "LangSmith_Course/docs/tags.md",
+    "LangSmith_Course/docs/tbd.md",
+    "Untitled 1.md",
+    "LangSmith_Course/docs/rsc/eval_experiments.png",
+    "LangSmith_Course/docs/rsc/eval_various.png",
+    "LangSmith_Course/docs/rsc/eval_cot.png",
+    "LangSmith_Course/docs/rsc/eval_trace.png",
+    "LangSmith_Course/docs/tutorial/Datasets.md",
+    "LangSmith_Course/docs/intros/LLMOps.md",
+    "LangSmith_Course/docs/FAQ.md",
+    "rsc/스크린샷.md"
   ]
 }
