@@ -7,3 +7,6 @@
 [submodule "LangGraph_Course"]
 	path = LangGraph_Course
 	url = ./LangGraph_Course
+[submodule "vLLM_Course"]
+	path = vLLM_Course
+	url = ./vLLM_Course
