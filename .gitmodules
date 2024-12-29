@@ -10,3 +10,6 @@
 [submodule "vLLM_Course"]
 	path = vLLM_Course
 	url = ./vLLM_Course
+[submodule "MLBasic_Course"]
+	path = MLBasic_Course
+	url = ./MLBasic_Course
