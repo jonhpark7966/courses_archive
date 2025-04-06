@@ -13,3 +13,6 @@
 [submodule "MLBasic_Course"]
 	path = MLBasic_Course
 	url = ./MLBasic_Course
+[submodule "FineTuning_Course"]
+	path = FineTuning_Course
+	url = https://github.com/jonhpark7966/FineTuning_Course.git
